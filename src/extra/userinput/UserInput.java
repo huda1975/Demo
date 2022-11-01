@@ -11,6 +11,8 @@ public class UserInput {
 
         System.out.println("Demo for second commit ");
 
+        System.out.println("Demo second branch ");
+
         System.out.println("enter your name: ");
 
         String name = userInput.nextLine();
